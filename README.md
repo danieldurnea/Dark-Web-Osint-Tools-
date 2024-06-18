@@ -17,6 +17,8 @@ https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence
 
 Tools to get onion links
 ### Hunchly - https://www.hunch.ly/darkweb-osint/
+### Darkweblink.com - https://darkweblink.com/
+### Darkweblink.com (TOR) - http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
 
 Tor66 Fresh Onions - http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh
 

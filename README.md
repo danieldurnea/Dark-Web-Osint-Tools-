@@ -1,16 +1,15 @@
-ProtINTelligence is a Python 🐍 script for the OSINT & Cyber Community.
-You will be able to get intelligence on:
-ProtonMail accounts/users
-Digital Footprints left by the ProtonMail user on the clear and Dark Web.
+### ProtINTelligence is a Python 🐍 script for the OSINT & Cyber Community.
+### Digital Footprints left by the ProtonMail user on the clear and Dark Web.
 https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence
 
-
-### https://darkweblink.io
+### Updated Best Dark web Sites v3 Onion Links and i2P Urls
+https://darkweblink.io
 
 ### http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/    - (Tor Onion Link)
+### ### 1000+ Darknet Sites Links You Must Visit On Tor Network
+https://hiddenwiki.se
 
-### https://hiddenwiki.se
-
+### Top market search Darkweb
 ### https://onionhub.com/
 
 
